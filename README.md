@@ -1,5 +1,5 @@
 # Test Case Optimizer
-A program to create a dataset storing $ o $ sets of $ m $ random binary numbers of $ n $ bit data as input and their corrsponding optimized output sequence.
+A program to create a dataset storing `o` sets of `m` random binary numbers of `n` bit data as input and their corrsponding optimized output sequence.
 
 ## Build
 - On Mac & Linux:
